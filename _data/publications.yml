@@ -1,0 +1,353 @@
+# Lab publications, newest first. Shown on the Publications page.
+# To add one, copy an entry and edit it. type: journal, conference, data, preprint or thesis.
+# doi, authors, code and dataset are optional.
+
+- year: 2026
+  type: conference
+  title: "Dermoscopic Skin Lesion Classification Using Deep Learning"
+  authors: "Ali Issam Ahmed Salim; Ebrucan Tekin; Mehmet Akif Özdemir"
+  venue: "International Students Science Congress (ISSC)"
+  doi: https://doi.org/10.52460/issc.2026.057
+- year: 2026
+  type: journal
+  title: "Predicting Cold Atmospheric Plasma‐Induced Wettability Transformations in Biopolymers: A Stacked Ensemble Machine Learning Framework"
+  authors: "Bilal Belmekki; Gizem Dilara Özdemir; Mehmet Akif Özdemir; Mouffok Rédouane Ghezzar; Utku Kürşat Ercan"
+  venue: "Plasma Processes and Polymers"
+  doi: https://doi.org/10.1002/ppap.70246
+- year: 2026
+  type: journal
+  title: "Smartphone-Based Colorimetric Analysis of pH Strips Using Machine Learning"
+  authors: "Ece Yıldız; Mustafa Şen; Mehmet Akif Özdemir"
+  venue: "Analytical Methods, 18, 5336–5346"
+  doi: https://doi.org/10.1039/d6ay00780e
+- year: 2026
+  type: conference
+  title: "An End-to-End Framework for Ischemic Stroke Lesion Segmentation and Clinical Summary Generation Using Transformer-Enhanced 3D U-Net and LLM"
+  authors: "Dilan Doğru; Mehmet Akif Özdemir; Onan Güren"
+  venue: "International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)"
+  doi: https://doi.org/10.1109/mlise70044.2026.11607644
+- year: 2026
+  type: journal
+  title: "Prostate Gland Segmentation on Prostate Magnetic Resonance Images: An Artificial Intelligence Study Using a U-Net-Based Convolutional Neural Network"
+  authors: "Başak Ünverdi; Mehmet Akif Özdemir; Aytuğ Onan; Elif Aylin Yüce Yörük; Türker Acar"
+  venue: "Ege Tıp Dergisi (Ege Journal of Medicine)"
+  doi: https://doi.org/10.19161/etd.1755224
+- year: 2026
+  type: conference
+  title: "A Computational Framework for Genomic Analysis of Multi-Drug-Resistant Acinetobacter baumannii"
+  venue: "International Ege Congress on Scientific Research"
+- year: 2026
+  type: conference
+  title: "Implementation of EEG-Based Emotion Recognition Using AlexNet on STM32 Microcontroller"
+  venue: "International Antalya Scientific Research and Innovative Studies Congress"
+- year: 2025
+  type: journal
+  title: "High-Accuracy Machine Learning–Based Colorimetric pH Quantification Using a Custom-Built Portable Strip-Imaging Device and Smartphone Application"
+  authors: "Ece Minel Bursalı; Mehmet Akif Özdemir; Mustafa Şen"
+  venue: "Microchimica Acta, 192, 850"
+  doi: https://doi.org/10.1007/s00604-025-07682-0
+- year: 2025
+  type: journal
+  title: "Lights Out for Superbugs: Is Antimicrobial Blue Light a Potential Approach for Future Infection Control?"
+  authors: "Gizem Dilara Özdemir; Carolina dos Anjos; Mehmet Akif Özdemir; Leon G. Leanse; Tianhong Dai"
+  venue: "Advanced Drug Delivery Reviews, 224, 115654"
+  doi: https://doi.org/10.1016/j.addr.2025.115654
+- year: 2025
+  type: conference
+  title: "Assessment of Oxidative Effects of Cold Atmospheric Plasma via Image Processing Techniques"
+  authors: "Elçin Erkal; Mehmet Akif Özdemir; Gizem Dilara Özdemir; Utku Kürşat Ercan; Onan Güren"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno68206.2025.11270144
+- year: 2025
+  type: thesis
+  title: "Image-Based Representations of Physiological Signals: Deep Learning Approaches for Predictive Medicine"
+  authors: "Mehmet Akif Özdemir; Onan Güren (advisor)"
+  venue: "PhD Thesis, İzmir Kâtip Çelebi University"
+- year: 2024
+  type: conference
+  title: "Deep Learning for the Detection of Dementia by Using Brain Mapping Images"
+  authors: "Sümeyye Kızılışık; Mehmet Akif Özdemir; Onan Güren"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno63488.2024.10755248
+- year: 2024
+  type: conference
+  title: "Deep Learning for Automated Ischemic Stroke Lesion Segmentation from Multi-Spectral MRI"
+  authors: "Dilan Doğru; Mehmet Akif Özdemir; Onan Güren"
+  venue: "European Signal Processing Conference (EUSIPCO)"
+  doi: https://doi.org/10.23919/eusipco63174.2024.10715216
+- year: 2024
+  type: journal
+  title: "Unveiling the Potential: Can Machine Learning Cluster Colorimetric Images of Cold Atmospheric Plasma Treatment?"
+  authors: "Gizem Dilara Özdemir; Mehmet Akif Özdemir; Mustafa Şen; Utku Kürşat Ercan"
+  venue: "Advanced Intelligent Systems"
+  doi: https://doi.org/10.1002/aisy.202400029
+- year: 2024
+  type: journal
+  title: "An Automated In Vitro Wound Healing Microscopy Image Analysis Approach Utilizing U-Net-Based Deep Learning Methodology"
+  authors: "Dilan Doğru; Gizem Dilara Özdemir; Mehmet Akif Özdemir; Utku Kürşat Ercan; Nermin Topaloğlu; Onan Güren"
+  venue: "BMC Medical Imaging"
+  doi: https://doi.org/10.1186/s12880-024-01332-2
+- year: 2024
+  type: journal
+  title: "Machine Learning-Aided Evaluation of Oxidative Strength of Cold Atmospheric Plasma-Treated Water"
+  authors: "Şeyma Ecem Irmak; Gizem Dilara Özdemir; Mehmet Akif Özdemir; Utku Kürşat Ercan"
+  venue: "Biomedical Physics & Engineering Express"
+  doi: https://doi.org/10.1088/2057-1976/ad464f
+- year: 2024
+  type: journal
+  title: "Prediction of the Synergistic Effect of Antimicrobial Peptides and Antimicrobial Agents via Supervised Machine Learning"
+  authors: "Başak Olcay; Gizem Dilara Özdemir; Mehmet Akif Özdemir; Utku Kürşat Ercan; Onan Güren; Ozan Karaman"
+  venue: "BMC Biomedical Engineering"
+  doi: https://doi.org/10.1186/s42490-024-00075-z
+- year: 2023
+  type: journal
+  title: "Neuromodulatory Effects and Reproducibility of the Most Widely Used Repetitive Transcranial Magnetic Stimulation Protocols"
+  authors: "Justine R. Magnuson; Mehmet Akif Özdemir; Elon Mathieson; Sofia Kirkman; Brice Passera; Sumientra M. Rampersad; Alyssa B. Dufour; Dana H. Brooks; Álvaro Pascual-Leone; Peter J. Fried; Mouhsin M. Shafi; Recep A. Özdemir"
+  venue: "PLOS ONE, 18(6), e0286465"
+  doi: https://doi.org/10.1371/journal.pone.0286465
+- year: 2023
+  type: conference
+  title: "Machine Learning to Predict the Effect of Cold Atmospheric Plasma on the Surface Properties of Biomaterials"
+  authors: "Yusra Dolunay Sula; Gizem Dilara Özdemir; Mehmet Akif Özdemir; Utku Kürşat Ercan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno59875.2023.10359197
+- year: 2023
+  type: conference
+  title: "Classification of Human Emotions Based on Multivariate Spectral EEG Attributes and CNNs"
+  authors: "Muhiddin Ceyhun Yıldırım; Mehmet Akif Özdemir; Onan Güren"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno59875.2023.10359239
+- year: 2023
+  type: conference
+  title: "Prediction of Antimicrobial Efficacy of Direct Cold Atmospheric Plasma Treatment via Ensemble Learning-Based Regression Models"
+  authors: "Elçin Erkal; Gizem Dilara Özdemir; Mehmet Akif Özdemir; Utku Kürşat Ercan; Onan Güren"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno59875.2023.10359199
+- year: 2023
+  type: conference
+  title: "Prediction of Intermittent Theta Burst Stimulation Response Using Machine Learning"
+  venue: "Brain & Human Body Modeling Conference"
+- year: 2023
+  type: journal
+  title: "Plasma Medicine: The Era of Artificial Intelligence"
+  authors: "Utku Kürşat Ercan; Gizem Dilara Özdemir; Mehmet Akif Özdemir; Onan Güren"
+  venue: "Plasma Processes and Polymers"
+  doi: https://doi.org/10.1002/ppap.202300066
+- year: 2023
+  type: journal
+  title: "Machine Learning to Predict the Antimicrobial Activity of Cold Atmospheric Plasma-Activated Liquids"
+  authors: "Mehmet Akif Özdemir; Gizem Dilara Özdemir; Merve Gül; Onan Güren; Utku Kürşat Ercan"
+  venue: "Machine Learning: Science and Technology"
+  doi: https://doi.org/10.1088/2632-2153/acc1c0
+- year: 2023
+  type: journal
+  title: "A Decision-Making Mechanism Based on EMG Signals and Adaptive Neural Fuzzy Inference System (ANFIS) for Hand Gesture Prediction"
+  authors: "Deniz Hande Kısa; Mehmet Akif Özdemir; Onan Güren; Ayşegül Alaybeyoğlu Soy"
+  venue: "Journal of the Faculty of Engineering and Architecture of Gazi University"
+  doi: https://doi.org/10.17341/gazimmfd.1025221
+- year: 2022
+  type: conference
+  title: "Removal of Ocular Artifacts in EEG Using Deep Learning"
+  authors: "Mehmet Akif Özdemir; Sümeyye Kızılışık; Onan Güren"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno56568.2022.9960203
+- year: 2022
+  type: conference
+  title: "Investigating the Effect of Signal Channels and Features in Various Domains on the EMG-Based Hand Gesture Classification"
+  authors: "Deniz Hande Kısa; Muhiddin Ceyhun Yıldırım; Belkıs Özdil; Mehmet Akif Özdemir; Onan Güren; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno56568.2022.9960235
+- year: 2022
+  type: conference
+  title: "Synchrosqueezing Transform and Non-Negative Matrix Factorization Based Feature Extraction from EEG Signals for Motor Imagery Classification"
+  authors: "Duygu Değirmenci; Mehmet Akif Özdemir; Onan Güren; Aytuğ Onan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno56568.2022.9960236
+- year: 2022
+  type: conference
+  title: "A Deep Learning Pipeline for the Segmentation of In Vitro Wound Healing Microscopy Images Following Laser Therapy"
+  authors: "Dilan Doğru; Mehmet Akif Özdemir; Gizem Dilara Özdemir; Nermin Topaloğlu; Onan Güren"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno56568.2022.9960169
+- year: 2022
+  type: conference
+  title: "Machine Learning to Predict Oxidative Strength of Cold Atmospheric Plasma Activated Water via Paper-Based Sensor"
+  authors: "Gizem Dilara Özdemir; Mehmet Akif Özdemir; Mustafa Şen; Utku Kürşat Ercan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno56568.2022.9960229
+- year: 2022
+  type: preprint
+  title: "Statistical Analysis of Time-Frequency Features Based on Multivariate Synchrosqueezing Transform for Hand Gesture Classification"
+  authors: "Lütfiye Sarıpınar; Deniz Hande Kısa; Mehmet Akif Özdemir; Onan Güren"
+  venue: "arXiv"
+  doi: https://doi.org/10.48550/arxiv.2209.13350
+- year: 2022
+  type: conference
+  title: "Classification of Hand Gestures Using sEMG Signals and Hilbert–Huang Transform"
+  authors: "Deniz Hande Kısa; Mehmet Akif Özdemir; Onan Güren; Aydın Akan"
+  venue: "European Signal Processing Conference (EUSIPCO)"
+  doi: https://doi.org/10.23919/eusipco55093.2022.9909748
+- year: 2022
+  type: journal
+  title: "Hand Gesture Classification Using Time–Frequency Images and Transfer Learning Based on CNN"
+  authors: "Mehmet Akif Özdemir; Deniz Hande Kısa; Onan Güren; Aydın Akan"
+  venue: "Biomedical Signal Processing and Control"
+  doi: https://doi.org/10.1016/j.bspc.2022.103787
+- year: 2022
+  type: journal
+  title: "A Retrospective Magnetic Resonance Imaging Analysis of Bone and Soft Tissue Changes Associated with the Spectrum of Tarsal Coalitions"
+  authors: "Atilla Hikmet Çilengir; Ezgi Suat Bayraktar; Suat Dursun; Mehmet Akif Özdemir; Sedat Altay; Ferhan Elmalı; Özgür Tosun"
+  venue: "Clinical Anatomy"
+  doi: https://doi.org/10.1002/ca.23866
+- year: 2022
+  type: data
+  title: "Dataset for Multi-Channel Surface Electromyography (sEMG) Signals of Hand Gestures"
+  authors: "Mehmet Akif Özdemir; Deniz Hande Kısa; Onan Güren; Aydın Akan"
+  venue: "Data in Brief"
+  doi: https://doi.org/10.1016/j.dib.2022.107921
+  dataset: https://data.mendeley.com/datasets/ckwc76xr2z/1
+- year: 2021
+  type: conference
+  title: "Emotion Detection Using EEG Signals Based on Multivariate Synchrosqueezing Transform and Deep Learning"
+  authors: "Tuğba Ergin; Mehmet Akif Özdemir; Onan Güren"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno53239.2021.9632970
+- year: 2021
+  type: conference
+  title: "An EEG and Machine Learning Based Method for the Detection of Major Depressive Disorder"
+  authors: "Elif İzci; Mehmet Akif Özdemir; Aydın Akan; Mehmet Akif Özçoban; Mehmet Kemal Arıkan"
+  venue: "Signal Processing and Communications Applications Conference (SIU)"
+  doi: https://doi.org/10.1109/siu53274.2021.9477800
+- year: 2021
+  type: journal
+  title: "Epileptic EEG Classification by Using Time-Frequency Images for Deep Learning"
+  authors: "Mehmet Akif Özdemir; Özlem Karabiber Cura; Aydın Akan"
+  venue: "International Journal of Neural Systems, 31(8), 2150026"
+  doi: https://doi.org/10.1142/s012906572150026x
+  code: https://github.com/mkfzdmr/Epileptic-EEG-Classfication-Using-Deep-Learning
+- year: 2021
+  type: journal
+  title: "Classification of COVID-19 Electrocardiograms by Using Hexaxial Feature Mapping and Deep Learning"
+  authors: "Mehmet Akif Özdemir; Gizem Dilara Özdemir; Onan Güren"
+  venue: "BMC Medical Informatics and Decision Making, 21, 170"
+  doi: https://doi.org/10.1186/s12911-021-01521-x
+- year: 2021
+  type: journal
+  title: "Arrhythmic Heartbeat Classification Using 2D Convolutional Neural Networks"
+  authors: "Mürşide Değirmenci; Mehmet Akif Özdemir; Elif İzci; Aydın Akan"
+  venue: "IRBM"
+  doi: https://doi.org/10.1016/j.irbm.2021.04.002
+- year: 2020
+  type: conference
+  title: "A Dynamic Mode Decomposition Based Approach for Epileptic EEG Classification"
+  authors: "Özlem Karabiber Cura; Mehmet Akif Özdemir; Sude Pehlivan; Aydın Akan"
+  venue: "European Signal Processing Conference (EUSIPCO)"
+  doi: https://doi.org/10.23919/eusipco47968.2020.9287719
+- year: 2020
+  type: conference
+  title: "Epileptic EEG Classification Using Synchrosqueezing Transform with Machine and Deep Learning Techniques"
+  authors: "Özlem Karabiber Cura; Mehmet Akif Özdemir; Aydın Akan"
+  venue: "European Signal Processing Conference (EUSIPCO)"
+  doi: https://doi.org/10.23919/eusipco47968.2020.9287347
+- year: 2020
+  type: conference
+  title: "Synchrosqueezing Transform in Biomedical Applications: A Mini Review"
+  authors: "Duygu Değirmenci; Melike Yalçın; Mehmet Akif Özdemir; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno50054.2020.9299225
+- year: 2020
+  type: conference
+  title: "EMG Based Hand Gesture Classification Using Empirical Mode Decomposition Time-Series and Deep Learning"
+  authors: "Deniz Hande Kısa; Mehmet Akif Özdemir; Onan Güren; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno50054.2020.9299282
+- year: 2020
+  type: conference
+  title: "EMG Based Hand Gesture Recognition Using Deep Learning"
+  authors: "Mehmet Akif Özdemir; Deniz Hande Kısa; Onan Güren; Aytuğ Onan; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno50054.2020.9299264
+- year: 2020
+  type: conference
+  title: "Abnormal ECG Beat Detection Based on Convolutional Neural Networks"
+  authors: "Mehmet Akif Özdemir; Onan Güren; Özlem Karabiber Cura; Aydın Akan; Aytuğ Onan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno50054.2020.9299260
+- year: 2020
+  type: conference
+  title: "Deep Learning Based Facial Emotion Recognition System"
+  authors: "Mehmet Akif Özdemir; Berkay Elagöz; Ayşegül Alaybeyoğlu Soy; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno50054.2020.9299256
+- year: 2020
+  type: conference
+  title: "ECG Arrhythmia Detection with Deep Learning"
+  authors: "Elif İzci; Mürşide Değirmenci; Mehmet Akif Özdemir; Aydın Akan"
+  venue: "Signal Processing and Communications Applications Conference (SIU)"
+  doi: https://doi.org/10.1109/siu49456.2020.9302219
+- year: 2020
+  type: journal
+  title: "EEG-Based Emotion Recognition with Deep Convolutional Neural Networks"
+  authors: "Mehmet Akif Özdemir; Mürşide Değirmenci; Elif İzci; Aydın Akan"
+  venue: "Biomedical Engineering / Biomedizinische Technik, 66(1), 43–57"
+  doi: https://doi.org/10.1515/bmt-2019-0306
+- year: 2019
+  type: conference
+  title: "EEG Based Emotional State Estimation Using 2-D Deep Learning Technique"
+  authors: "Mehmet Akif Özdemir; Mürşide Değirmenci; Onan Güren; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2019.8895158
+- year: 2019
+  type: conference
+  title: "Real Time Emotion Recognition from Facial Expressions Using CNN Architecture"
+  authors: "Mehmet Akif Özdemir; Berkay Elagöz; Ayşegül Alaybeyoğlu; Reza Sadighzadeh; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2019.8895215
+- year: 2019
+  type: conference
+  title: "Cardiac Arrhythmia Detection from 2D ECG Images by Using Deep Learning Technique"
+  authors: "Elif İzci; Mehmet Akif Özdemir; Mürşide Değirmenci; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2019.8895011
+- year: 2019
+  type: conference
+  title: "Design of Real Time Cardiac Arrhythmia Detection Device"
+  authors: "Yasemin Yol; Mehmet Akif Özdemir; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2019.8894964
+- year: 2019
+  type: conference
+  title: "Emotion Recognition with Multi-Channel EEG Signals Using Auditory Stimulus"
+  authors: "Cansu Güneş; Mehmet Akif Özdemir; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2019.8895124
+- year: 2019
+  type: conference
+  title: "Emotion Recognition with Multi-Channel EEG Signals Using Visual Stimulus"
+  authors: "Tuğba Ergin; Mehmet Akif Özdemir; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2019.8895242
+- year: 2018
+  type: conference
+  title: "Emotion Recognition from EEG Signals by Using Empirical Mode Decomposition"
+  authors: "Mürşide Değirmenci; Mehmet Akif Özdemir; Reza Sadighzadeh; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2018.8597061
+- year: 2018
+  type: conference
+  title: "Arrhythmia Detection on ECG Signals by Using Empirical Mode Decomposition"
+  authors: "Elif İzci; Mehmet Akif Özdemir; Reza Sadighzadeh; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2018.8597094
+- year: 2018
+  type: conference
+  title: "Detection of Epileptic Seizures by the Analysis of EEG Signals Using Empirical Mode Decomposition"
+  authors: "Şeyma Yol; Mehmet Akif Özdemir; Aydın Akan; Luis F. Chaparro"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2018.8596780
+- year: 2018
+  type: conference
+  title: "Processing and Characterization of Acoustic Signals Emitted During Plasma Discharge"
+  authors: "Gizem Dilara Özdemir; Mehmet Akif Özdemir; Bartu Yeşilkaya; Mazlum Ünay; Utku Kürşat Ercan; Aydın Akan"
+  venue: "Medical Technologies Congress (TIPTEKNO)"
+  doi: https://doi.org/10.1109/tiptekno.2018.8597000
