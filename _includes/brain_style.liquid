@@ -159,4 +159,11 @@
   @media (max-width: 760px) { .b-contact { grid-template-columns: 1fr; } }
   .b-card { border: 1px solid var(--b-line); border-radius: 16px; padding: 1.6rem; background: var(--b-paper); }
   .b-card p { line-height: 1.7; }
+
+  /* Small screens */
+  .navbar .nav-link { white-space: nowrap; }
+  @media (max-width: 760px) {
+    .b-pi > div:first-child { max-width: 180px; }
+    .b-team { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+  }
 </style>
